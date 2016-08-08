@@ -3,64 +3,44 @@
 
 /* Button Tutorial */
 "Start new game" = "Zacznij nową grę";
-
 /* Button Tutorial */
 "Link to other device" = "Podłącz do innego urządzenia";
-
 /* Life Counter Damage Button */
 "General" = "Generał";
-
 /* Activity Title */
 "Dice Roll" = "Rzut Kośćmi";
-
 /* Activity Description */
 "You rolled %i, opponent rolled %i." = "Twoje kości %i, kości przeciwnika %i.";
-
 /* Activity Option */
 "OK" = "OK";
-
 /* Activity Option */
 "New Game" = "Nowa Gra";
-
 /* Window Title */
 "New Game" = "Nowa Gra";
-
 /* Game Type */
 "Duel" = "Pojedynek";
-
 /* Game Type */
 "EDH / Commander" = "EDH / Generał";
-
 /* Game Type */
 "Two-Headed Giant" = "Dwugłowy Gigant";
-
 /* Game Type */
 "Multiplayer" = "Multiplayer";
-
 /* Game Type */
 "FNM" = "FNM";
-
 /* Button Tutorial */
 "Reset names" = "Zresetuj imiona";
-
 /* Button Tutorial */
 "Close" = "Zamknij";
-
 /* Player {numeric index} */
 "Player %li" = "Gracz %li";
-
 /* Placeholder */
 "Player Name" = "Gracz";
-
 /* Window Title */
 "General Damage" = "Uszkodzenia Generalskie";
-
 /* Window Subtitle for General Damage */
 "from" = "od";
-
 /* Button Tutorial */
 "Clear Log" = "Skasuj Log";
-
 
 
 /* Main Menu Item */
@@ -180,61 +160,127 @@
 "Nothing from this deck is in the Needed binders." = "Nic z tego Deku nie jest w Binderach Potrzebuję.";
 
 
-
 /* Main Menu Item */
 "Gathering" = "Zbiegowisko";
+
+/* Gathering Tools Menu Title */
+"Gathering Tools" = "Narzędzia Gathering";
+/* Gathering Tools Menu Description */
+"This functionality requires iMtG Server to be online." = "Wymagane połączenie sieciowe z iMtG Serverem.";
+/* Gathering Tools Menu Option */
+"Cancel" = "Anuluj";
+/* Gathering Tools Menu Option */
+"Go Safari" = "Otwórz Safari";
+/* Gathering Tools Menu Option */
+"Replies" = "Odpowiedzi";
+
 
 /* Main Menu Item */
 "Multiverse" = "Multiverse";
 
+
 /* Main Menu Item */
 "Card Database" = "Baza Kart";
+
+/* Content Details Mode */
+"Extra Info" = "Extra Info";
+/* Content Details Mode */
+"Magic Binders" = "Magic Binders";
+/* Content Details Mode */
+"Price: All" = "Pełen Cennik";
+/* Content Details Mode */
+"Price: List" = "Cennik";
+/* Content Details Mode */
+"Price: Buy" = "Cennik Sprzedaży";
+/* Content Details Mode */
+"Price: Sell" = "Cennik Zakupu";
+/* Price Description */
+"TCGplayer.com non-foil" = "Cena TCGplayer.com";
+/* Price Description */
+"TCGplayer.com foil" = "TCGplayer.com foil";
+/* Detailed Card View Option */
+"Rulings" = "Zasady";
+/* Detailed Card View Option */
+"Legalities" = "Kruczki Prawne";
+/* Detailed Card View Option */
+"Commentary & Criticism" = "Krytyka Konstruktywna";
+/* Card Legalities Option */
+"Restricted" = "Z ograniczeniami";
+/* Card Legalities Option */
+"Legal" = "Spoko";
+
 
 /* Main Menu Item */
 "Bookmarks" = "Zakładki";
 
+
 /* Main Menu Item */
 "Expansions" = "Rozszerzenia";
+
 
 /* Main Menu Item */
 "Scan" = "Skaner";
 
+/* Scanner Trial End Shop Alert Title */
+"Trial is complete" = "Pokaz zakończony";
+/* Scanner Trial End Shop Alert */
+"I hope scanning worked for you and you will purchase the full version of it. Please use Feedback to tell me about issues you had or your improvement requests." = "Mam nadzieję, że skaner zadziałał jak należy i jest warty zakupu. Proszę użyj opcję Wsparcie i Zwrotki jeśli nie ;]";
+/* Scanner Trial End Shop Alert Option */
+"No way" = "Hmm";
+/* Scanner Trial End Shop Alert Option */
+"How much?" = "A cena?";
+/* Activity Info */
+"No binder linked to scanned QR Code found." = "Nie ma bindera podłączonego do znalezionego QR Code.";
+/* Activity Follow-up Button */
+"Link to Binder" = "Podłącz Binder";
+
+
 /* Main Menu Item */
 "I'm Feeling Lucky" = "Losowanko";
+
 
 /* Main Menu Item */
 "Magic Binders" = "Magiczne Bindery";
 
+
 /* Main Menu Item */
 "My Precious" = "Moje Skarby";
+
 
 /* Main Menu Item */
 "Needed" = "Potrzebuję";
 
+
 /* Main Menu Item */
 "Trade Binder" = "Na Wymianę";
+
 
 /* Main Menu Item */
 "Trading" = "Handel";
 
+
 /* Main Menu Item */
 "Price Check" = "Cennik";
+
 
 /* Main Menu Item */
 "Update Private Page" = "Uaktualnij Private Page";
 
+
 /* Main Menu Item */
 "Potential Trades" = "Potencjalne Wymiany";
+
 
 /* Main Menu Item */
 "Rules" = "Reguły";
 
+
 /* Main Menu Item */
 "Glossary" = "Słownik";
 
+
 /* Main Menu Item */
 "Ask" = "Spytaj";
-
 
 
 /* Main Menu Item */
@@ -260,107 +306,148 @@
 "No more right" = "Nie ma prawa";
 
 
-
 /* Main Menu Item */
 "Help" = "Pomoc";
+
 
 /* Main Menu Item */
 "Support and Feedback" = "Wsparcie i Zwrotki";
 
+/* Feedback Menu Title */
+"Feedback" = "Feedback";
+/* Feedback Menu Subtitle */
+"Email the Author" = "Wsparcie i Zwrotki";
+/* Feedback Menu Option: Exit */
+"Cancel" = "Anuluj";
+/* Feedback Menu Option: Report Problem */
+"Report a problem" = "Mam problem...";
+/* Feedback Menu Option: General Feedback */
+"Email the Author" = "Email do Autora";
+
+
 /* Main Menu Item */
 "Shop" = "Sklep";
 
+/* Window Title */
+"Shop" = "Sklep";
 /* Activity */
 "Connecting..." = "Łączę...";
-
 /* Activity */
 "Connected" = "Połączone";
-
 /* Activity */
 "Oops! Lame." = "Oops! Lipa.";
-
 /* Activity Details */
 "Unable to retrieve information for some of the items. Try: Main Menu -> Support and Feedback, please." = "Nie udało się pobrać aktualnej informacji. Tu: Główne Menu -> Wsparcie i Zwrotki, poproszę.";
+/* Shop Thank you! */
+"Thank you!" = "Dzięki!";
+/* Shop Purchase Confirmation */
+"The ads are no more." = "Reklamy wywalone.";
+/* Shop Purchase Confirmation */
+"The offline cache is now active. Try: Main Menu -> Settings & Tools -> Tools." = "Schowek Offline aktywny od teraz. Tu: Główne Menu -> Ustawienia i Narzędzia -> Narzędzia.";
+/* Shop Purchase Confirmation */
+"You can access card rulings when checking detailed card info." = "Dostęp do Zasad odblokowany.";
+/* Shop Purchase Confirmation */
+"You can manage a huge number of decks in Deck Builder." = "Limit Deków wyłączony.";
+/* Shop Purchase Confirmation */
+"You have it all, Boss." = "Masz wszystko. Boss!";
+/* Shop Purchase Confirmation */
+"You can scan as much as you want." = "Skanujta ile chceta.";
+/* Shop Purchase Confirmation */
+"Update Database started. Try: Main Menu -> Settings & Tools -> Tools -> Database Update." = "Uaktualniam Bazę Danych... Tu: Główne Menu -> Ustawienia i Narzędzia -> Narzędzia -> Uaktualnij Bazę Danych.";
+/* Shop Purchase Confirmation */
+"Update Database in Main Menu -> Settings & Tools -> Tools -> Database Update." = "Uaktualnij Bazę Danych tu: Główne Menu -> Ustawienia i Narzędzia -> Narzędzia -> Uaktualnij Bazę Danych.";
+/* Shop Purchase Confirmation */
+"May your trades be always profitable." = "Niech twe transakcje będą zawsze zyskowne.";
+/* Shop Purchase Confirmation */
+"You can create unlimited number of Binders." = "Limit Binderów wyłączony.";
+/* Shop Purchase Confirmation */
+"You can print and scan QR Code Labels." = "Drukowanie i skanowanie kodów 2D włączone.";
+/* Shop Purchase Confirmation */
+"You have unlocked iMtG Server access for 1 month." = "Dostęp do iMtG Servera odblokowany na 1 miesiąc.";
+/* Shop Purchase Confirmation */
+"You have unlocked iMtG Server access for 7 months." = "Dostęp do iMtG Servera odblokowany na 7 miesięcy.";
+/* Shop Purchase Confirmation */
+"You have unlocked iMtG Server access for 15 months." = "Dostęp do iMtG Servera odblokowany na 15 miesięcy.";
+/* Shop Purchase Confirmation */
+"You have unlocked iMtG Server access. Sharing is caring! ;]" = "Dostęp do iMtG Servera odblokowany. Brak mi słów uznania! ;]";
+/* Shop Purchase Confirmation */
+"You have unlocked iMtG Server access for a month." = "Dostęp do iMtG Servera odblokowany na miesiąc.";
+/* Shop Purchase Confirmation */
+"That felt good, cheers!" = "To było dobre, na zdrowie!";
+/* Shop Option */
+"Restore Purchases" = "Przywróć Zakupy";
+/* Shop Option */
+"I'll Have it All" = "Poproszę Wszystko";
+/* Shop Option */
+"Card Scanner" = "Skaner Kart";
+/* Shop Option Details */
+"No Camera" = "Brak Kamery";
+/* Shop Option */
+"Disable Ads" = "Skasuj Reklamy";
+/* Shop Option */
+"Offline Cache" = "Schowek Offline";
+/* Shop Option */
+"Unlimited Decks" = "Nielimitowane Deki";
+/* Shop Option */
+"Card Rulings" = "Zasady Kart";
+/* Shop Option */
+"Card Translations" = "Tłumaczenia Kart";
+/* Shop Option */
+"Advanced Trading" = "Zaawansowany Handel";
+/* Shop Option */
+"Unlimited Binders" = "Nielimitowane Bindery";
+/* Shop Option */
+"QR Code Labels" = "Etykiety QR Code";
+/* Shop Option */
+"iMtG Server - Half Year" = "iMtG Server - Pół Roku";
+/* Shop Option */
+"iMtG Server - Year" = "iMtG Server - Rok";
+/* Shop Option */
+"iMtG Server - Half Life" = "iMtG Server - Half Life";
+/* Shop Option */
+"iMtG Server - Continuous" = "iMtG Server - Co Miesiąc";
 
 
 /* Main Menu Item */
 "Settings" = "Ustawienia i Narzędzia";
 
-/* Main Menu Item */
-"About" = "iMtG";
-
-
-/* Content Details Mode */
-"Extra Info" = "Extra Info";
-
-/* Content Details Mode */
-"Magic Binders" = "Magic Binders";
-
-/* Content Details Mode */
-"Price: All" = "Pełen Cennik";
-
-/* Content Details Mode */
-"Price: List" = "Cennik";
-
-/* Content Details Mode */
-"Price: Buy" = "Cennik Sprzedaży";
-
-/* Content Details Mode */
-"Price: Sell" = "Cennik Zakupu";
-
-
-/* Activity Confirmation */
-"Are you sure?" = "Czy na pewno?";
-
-/* Activity Confirmation Option */
-"Cancel" = "Nie";
-
-/* Activity Confirmation Option */
-"Yes" = "Tak";
-
-
+/* Shake Menu Title */
+"Shake Menu" = "Wstrząśnięte";
+/* Shake Menu Subtitle */
+"Shake your device to enter here." = "Potrząś urządzeniem by się tu dostać.";
+/* Shake Menu Exit Button */
+"Unshake" = "Odtrząś";
+/* Shake Menu Action Undo {Undo Action Name} */
+"Undo %@" = "Cofnij %@";
 /* Activity Title */
 "Offline Cache" = "Schowek Offline";
-
 /* Offline Cache Activity Description */
 "Download in progress" = "Pobieram...";
-
 /* Activity Offline Cache Option */
 "Stop" = "Stop";
-
 /* Activity Offline Cache Option */
 "Continue" = "Kontynuuj";
 
 
+/* Main Menu Item */
+"About" = "iMtG";
+
+
+
+/* Activity Confirmation */
+"Are you sure?" = "Czy na pewno?";
+/* Activity Confirmation Option */
+"Cancel" = "Nie";
+/* Activity Confirmation Option */
+"Yes" = "Tak";
+
 /* Activity Confirmation Title */
 "Reset Main Menu to defaults." = "Zresetuj Główne Menu do ustawień fabrycznych.";
-
 /* Activity Confirmation Title */
 "Disconnect" = "Rozłącz";
 
-
-/* Gathering Tools Menu Title */
-"Gathering Tools" = "Narzędzia Gathering";
-
-/* Gathering Tools Menu Description */
-"This functionality requires iMtG Server to be online." = "Wymagane połączenie sieciowe z iMtG Serverem.";
-
-/* Gathering Tools Menu Option */
-"Cancel" = "Anuluj";
-
-/* Gathering Tools Menu Option */
-"Go Safari" = "Otwórz Safari";
-
-/* Gathering Tools Menu Option */
-"Replies" = "Odpowiedzi";
-
-
 /* Button Title */
 "No Ads" = "Wyłącz Reklamy";
-
-
-/* Window Title */
-"Shop" = "Sklep";
 
 /* Window Title */
 "Rulings" = "Zasady";
@@ -376,179 +463,3 @@
 
 /* Window Title */
 "Life Counter Settings" = "LŻ: Ustawienia";
-
-
-/* Scanner Trial End Shop Alert Title */
-"Trial is complete" = "Pokaz zakończony";
-
-/* Scanner Trial End Shop Alert */
-"I hope scanning worked for you and you will purchase the full version of it. Please use Feedback to tell me about issues you had or your improvement requests." = "Mam nadzieję, że skaner zadziałał jak należy i jest warty zakupu. Proszę użyj opcję Wsparcie i Zwrotki jeśli nie ;]";
-
-/* Scanner Trial End Shop Alert Option */
-"No way" = "Hmm";
-
-/* Scanner Trial End Shop Alert Option */
-"How much?" = "A cena?";
-
-
-/* Shake Menu Title */
-"Shake Menu" = "Wstrząśnięte";
-
-/* Shake Menu Subtitle */
-"Shake your device to enter here." = "Potrząś urządzeniem by się tu dostać.";
-
-/* Shake Menu Exit Button */
-"Unshake" = "Odtrząś";
-
-/* Shake Menu Action Undo {Undo Action Name} */
-"Undo %@" = "Cofnij %@";
-
-
-/* Feedback Menu Title */
-"Feedback" = "Feedback";
-
-/* Feedback Menu Subtitle */
-"Email the Author" = "Wsparcie i Zwrotki";
-
-/* Feedback Menu Option: Exit */
-"Cancel" = "Anuluj";
-
-/* Feedback Menu Option: Report Problem */
-"Report a problem" = "Mam problem...";
-
-/* Feedback Menu Option: General Feedback */
-"Email the Author" = "Email do Autora";
-
-
-/* Detailed Card View Option */
-"Rulings" = "Zasady";
-
-/* Detailed Card View Option */
-"Legalities" = "Kruczki Prawne";
-
-/* Detailed Card View Option */
-"Commentary & Criticism" = "Krytyka Konstruktywna";
-
-
-/* Price Description */
-"TCGplayer.com non-foil" = "Cena TCGplayer.com";
-
-/* Price Description */
-"TCGplayer.com foil" = "TCGplayer.com foil";
-
-
-/* Activity Info */
-"No binder linked to scanned QR Code found." = "Nie ma bindera podłączonego do znzlezionego QR Code.";
-
-/* Activity Follow-up Button */
-"Link to Binder" = "Podłącz Binder";
-
-
-/* Card Legalities Option */
-"Restricted" = "Z ograniczeniami";
-
-/* Card Legalities Option */
-"Legal" = "Spoko";
-
-
-/* Shop Thank you! */
-"Thank you!" = "Dzięki!";
-
-/* Shop Purchase Confirmation */
-"The ads are no more." = "Reklamy wywalone.";
-
-/* Shop Purchase Confirmation */
-"The offline cache is now active. Try: Main Menu -> Settings & Tools -> Tools." = "Schowek Offline aktywny od teraz. Tu: Główne Menu -> Ustawienia i Narzędzia -> Narzędzia.";
-
-/* Shop Purchase Confirmation */
-"You can access card rulings when checking detailed card info." = "Dostęp do Zasad odblokowany.";
-
-/* Shop Purchase Confirmation */
-"You can manage a huge number of decks in Deck Builder." = "Limit Deków wyłączony.";
-
-/* Shop Purchase Confirmation */
-"You have it all, Boss." = "Masz wszystko. Boss!";
-
-/* Shop Purchase Confirmation */
-"You can scan as much as you want." = "Skanujta ile chceta.";
-
-/* Shop Purchase Confirmation */
-"Update Database started. Try: Main Menu -> Settings & Tools -> Tools -> Database Update." = "Uaktualniam Bazę Danych... Tu: Główne Menu -> Ustawienia i Narzędzia -> Narzędzia -> Uaktualnij Bazę Danych.";
-
-/* Shop Purchase Confirmation */
-"Update Database in Main Menu -> Settings & Tools -> Tools -> Database Update." = "Uaktualnij Bazę Danych tu: Główne Menu -> Ustawienia i Narzędzia -> Narzędzia -> Uaktualnij Bazę Danych.";
-
-/* Shop Purchase Confirmation */
-"May your trades be always profitable." = "Niech twe transakcje będą zawsze zyskowne.";
-
-/* Shop Purchase Confirmation */
-"You can create unlimited number of Binders." = "Limit Binderów wyłączony.";
-
-/* Shop Purchase Confirmation */
-"You can print and scan QR Code Labels." = "Drukowanie i skanowanie kodów 2D włączone.";
-
-/* Shop Purchase Confirmation */
-"You have unlocked iMtG Server access for 1 month." = "Dostęp do iMtG Servera odblokowany na 1 miesiąc.";
-
-/* Shop Purchase Confirmation */
-"You have unlocked iMtG Server access for 7 months." = "Dostęp do iMtG Servera odblokowany na 7 miesięcy.";
-
-/* Shop Purchase Confirmation */
-"You have unlocked iMtG Server access for 15 months." = "Dostęp do iMtG Servera odblokowany na 15 miesięcy.";
-
-/* Shop Purchase Confirmation */
-"You have unlocked iMtG Server access. Sharing is caring! ;]" = "Dostęp do iMtG Servera odblokowany. Brak mi słów uznania! ;]";
-
-/* Shop Purchase Confirmation */
-"You have unlocked iMtG Server access for a month." = "Dostęp do iMtG Servera odblokowany na miesiąc.";
-
-/* Shop Purchase Confirmation */
-"That felt good, cheers!" = "To było dobre, na zdrowie!";
-
-/* Shop Option */
-"Restore Purchases" = "Przywróć Zakupy";
-
-/* Shop Option */
-"I'll Have it All" = "Poproszę Wszystko";
-
-/* Shop Option */
-"Card Scanner" = "Skaner Kart";
-
-/* Shop Option Details */
-"No Camera" = "Brak Kamery";
-
-/* Shop Option */
-"Disable Ads" = "Skasuj Reklamy";
-
-/* Shop Option */
-"Offline Cache" = "Schowek Offline";
-
-/* Shop Option */
-"Unlimited Decks" = "Nielimitowane Deki";
-
-/* Shop Option */
-"Card Rulings" = "Zasady Kart";
-
-/* Shop Option */
-"Card Translations" = "Tłumaczenia Kart";
-
-/* Shop Option */
-"Advanced Trading" = "Zaawansowany Handel";
-
-/* Shop Option */
-"Unlimited Binders" = "Nielimitowane Bindery";
-
-/* Shop Option */
-"QR Code Labels" = "Etykiety QR Code";
-
-/* Shop Option */
-"iMtG Server - Half Year" = "iMtG Server - Pół Roku";
-
-/* Shop Option */
-"iMtG Server - Year" = "iMtG Server - Rok";
-
-/* Shop Option */
-"iMtG Server - Half Life" = "iMtG Server - Half Life";
-
-/* Shop Option */
-"iMtG Server - Continuous" = "iMtG Server - Co Miesiąc";
